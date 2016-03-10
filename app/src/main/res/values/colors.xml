@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="devide_line">#262626</color>
+    <color name="blue">#36427c</color>
+    <color name="red">#FF0000</color>
+
+    <!--<color name="blue">#499BF7</color>-->
+    <!--<color name="blue">#8caae0</color>-->
+    <!--<color name="devide_line">#CBCED2</color>-->
+
+
+    <color name="gray_font">#818181</color>
+    <color name="whites">#ffffff</color>
+</resources>
